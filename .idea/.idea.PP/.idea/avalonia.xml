@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="PP/AddEd.axaml" value="PP/PP.csproj" />
+        <entry key="PP/App.axaml" value="PP/PP.csproj" />
+        <entry key="PP/MainWindow.axaml" value="PP/PP.csproj" />
+        <entry key="PP/Table.axaml" value="PP/PP.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
